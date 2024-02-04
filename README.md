@@ -1,4 +1,4 @@
 # 1st-demo
 This is my first repositry.
 <br>
-Author - Amardeep Kumar
+Author - Amardeep Kumar (prince)
